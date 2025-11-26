@@ -4,7 +4,7 @@ Este é uma aplicação web desenvolvida em **Java** utilizando a arquitetura **
 
 ## 🛠️ Tecnologias Utilizadas
 
-* **Java** (JDK 8 ou superior)
+* **Java** (JDK 17 ou superior)
 * **Apache NetBeans** (IDE)
 * **Apache Tomcat 8.5** (Servidor Web)
 * **MySQL** (Banco de Dados)
